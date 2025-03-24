@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ayankb/ayankb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student passionate about programming and problem-solving.  
+I'm very familiar with **Python** and love building cool projects with it.  
 
-Here are some ideas to get you started:
+- 🔭 Currently learning: Web Development and Backend Engineering  
+- 💻 Tech I use: Python, Flask, SQLite, Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats (optional) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayankb&show_icons=true&theme=radical)
+
+<!-- Add snake animation (optional) -->
+![Snake animation](https://github.com/ayankb/your-username/blob/output/github-contribution-grid-snake.svg)
